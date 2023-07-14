@@ -11,7 +11,7 @@
 import pandas as pd
 import matplotlib.pyplot as pit
 
-data = pd.read_csv("/data/Postulantes-2022_1.csv", sep=",", encoding='unicode_escape')
+data = pd.read_csv(__path__ + "/data/Postulantes-2022_1.csv", sep=",", encoding='unicode_escape')
 
 ######
 # Mostramos la data que vamos a utilizar
