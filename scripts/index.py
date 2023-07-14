@@ -8,7 +8,4 @@
 # In[35]:
 
 
-import pandas as pd
-import matplotlib.pyplot as pit
-
 print("123")
