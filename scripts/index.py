@@ -12,7 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as pit
 from pathlib import Path
 
-data = pd.read_csv(Path.cwd() + "/data/Postulantes-2022_1.csv", sep=",", encoding='unicode_escape')
+data = pd.read_csv("/app/avance-proyectofinal-itd/data/Postulantes-2022_1.csv", sep=",", encoding='unicode_escape')
 
 ######
 # Mostramos la data que vamos a utilizar
@@ -83,7 +83,7 @@ datanueva_limpia.info()
 # In[28]:
 
 
-datanueva_limpia.to_csv('/data_limpia/datalimpia.csv', index=False)
+datanueva_limpia.to_csv('/app/avance-proyectofinal-itd/data_limpia/datalimpia.csv', index=False)
 
 
 # <h1>ANALISIS EXPLORATORIO DE DATOS</h1>
@@ -95,7 +95,7 @@ datanueva_limpia.to_csv('/data_limpia/datalimpia.csv', index=False)
 # In[259]:
 
 
-datanuevalimpia = pd.read_csv("/data_limpia/datalimpia.csv", sep=",")
+datanuevalimpia = pd.read_csv("/app/avance-proyectofinal-itd/data_limpia/datalimpia.csv", sep=",")
 
 
 pit.figure(figsize=(16, 6))
