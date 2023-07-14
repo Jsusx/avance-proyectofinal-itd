@@ -1,0 +1,824 @@
+DEPARTAMENTO,PROVINCIA,DISTRITO,EDAD,SEXO,PRIMERA CARRERA,SEGUNDA CARRERA
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,31,Masculino,Contabilidad,Administración
+LIMA,LIMA,LIMA,18,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LIMA,21,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,40,Femenino,Contabilidad,Administración
+LIMA,LIMA,CHORRILLOS,20,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+LIMA,LIMA,COMAS,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,CARABAYLLO,18,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,COMAS,28,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,LA PERLA,20,Masculino,Contabilidad,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Masculino,Contabilidad,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,20,Masculino,Administración,Administración
+LIMA,LIMA,PUEBLO LIBRE,17,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,19,Masculino,Construcción Civil,Mecánica de Producción
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,25,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,PUEBLO LIBRE,19,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+LIMA,LIMA,PUENTE PIEDRA,20,Femenino,Administración,Administración
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Publicitario,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Femenino,Contabilidad,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,32,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,17,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,24,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,21,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LIMA,22,Masculino,Construcción Civil,Diseño Gráfico
+LIMA,LIMA,CARABAYLLO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LIMA,20,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,22,Femenino,Mecánica Automotriz,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,20,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,40,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,VILLA MARIA DEL TRIUNFO,22,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,31,Masculino,Mecánica Automotriz,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,20,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,18,Femenino,Administración,Administración
+LIMA,LIMA,SAN MIGUEL,19,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Contabilidad,Administración
+LIMA,LIMA,ATE,18,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LINCE,19,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,COMAS,27,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,18,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,CALLAO,28,Masculino,Desarrollo de Sistemas de Información,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,20,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,19,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,28,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,18,Masculino,Construcción Civil,Contabilidad
+CALLAO,CALLAO,CALLAO,19,Masculino,Diseño Publicitario,Mecánica Automotriz
+CALLAO,CALLAO,LA PERLA,17,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,LOS OLIVOS,23,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+LIMA,LIMA,INDEPENDENCIA,30,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,20,Femenino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,LA PERLA,17,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+LIMA,LIMA,LIMA,31,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,17,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,22,Masculino,Administración,Administración
+LIMA,LIMA,SAN BORJA,18,Femenino,Administración,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,35,Masculino,Construcción Civil,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Desarrollo de Sistemas de Información,Contabilidad
+LIMA,LIMA,PUENTE PIEDRA,18,Femenino,Administración,Construcción Civil
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,35,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Diseño Gráfico,Secretariado Ejecutivo
+LIMA,LIMA,SAN MARTIN DE PORRES,32,Masculino,Diseño Publicitario,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,22,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,COMAS,18,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Masculino,Contabilidad,Diseño Gráfico
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,26,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MIGUEL,18,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,19,Femenino,Administración,Administración
+CALLAO,CALLAO,VENTANILLA,19,Masculino,Diseño Gráfico,Diseño Publicitario
+JUNIN,SATIPO,MAZAMARI,20,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+LIMA,LIMA,LOS OLIVOS,18,Femenino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,18,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Administración,Desarrollo de Sistemas de Información
+LORETO,LORETO,NAUTA,19,Masculino,Mecánica Automotriz,Administración
+CALLAO,CALLAO,CALLAO,17,Masculino,Mecánica Automotriz,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Femenino,Contabilidad,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,19,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LIMA,20,Masculino,Contabilidad,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,25,Femenino,Contabilidad,Administración
+LIMA,LIMA,INDEPENDENCIA,36,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,44,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Publicitario,Mecánica de Producción
+CALLAO,CALLAO,VENTANILLA,17,Femenino,Contabilidad,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,19,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Administración,Mecánica Automotriz
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,19,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,VENTANILLA,25,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LIMA,19,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,31,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,SAN MIGUEL,30,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,27,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,18,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,20,Masculino,Contabilidad,Administración
+LIMA,LIMA,VILLA MARIA DEL TRIUNFO,23,Femenino,Diseño Gráfico,Diseño Gráfico
+LA LIBERTAD,CHEPEN,PACANGA,23,Masculino,Construcción Civil,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,17,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,CALLAO,32,Masculino,Administración,Diseño Gráfico
+LIMA,LIMA,PUENTE PIEDRA,17,Masculino,Construcción Civil,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,21,Femenino,Contabilidad,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,24,Masculino,Administración,Mecánica Automotriz
+LIMA,LIMA,PUEBLO LIBRE,22,Femenino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Masculino,Administración,Contabilidad
+TUMBES,TUMBES,TUMBES,18,Femenino,Diseño Gráfico,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,19,Masculino,Desarrollo de Sistemas de Información,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,22,Masculino,Diseño Gráfico,Mecánica de Producción
+CALLAO,CALLAO,LA PERLA,25,Femenino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+LIMA,LIMA,LIMA,19,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,44,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+PUNO,SAN ROMAN,JULIACA,23,Masculino,Contabilidad,Construcción Civil
+CALLAO,CALLAO,CALLAO,44,Masculino,Construcción Civil,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,26,Masculino,Diseño Gráfico,Mecánica de Producción
+CALLAO,CALLAO,VENTANILLA,20,Femenino,Administración,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,17,Masculino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Masculino,Administración,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LIMA,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,ATE,17,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,21,Femenino,Secretariado Ejecutivo,Diseño Gráfico
+PASCO,PASCO,HUARIACA,39,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,LA PERLA,18,Femenino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,26,Femenino,Administración,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,24,Masculino,Diseño Publicitario,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Desarrollo de Sistemas de Información,Mecánica de Producción
+LIMA,LIMA,LIMA,19,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,21,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,19,Femenino,Diseño Gráfico,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,17,Femenino,Contabilidad,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,25,Femenino,Administración,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,SANTIAGO DE SURCO,20,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,32,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+LIMA,LIMA,LINCE,22,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,18,Femenino,Secretariado Ejecutivo,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,20,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,18,Femenino,Diseño Publicitario,Construcción Civil
+CALLAO,CALLAO,CALLAO,17,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+LIMA,LIMA,SAN MIGUEL,20,Femenino,Diseño Publicitario,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Publicitario,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,29,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,17,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,CARABAYLLO,19,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,34,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,22,Femenino,Contabilidad,Administración
+ANCASH,SANTA,CHIMBOTE,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,18,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MIGUEL,22,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,24,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,22,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,23,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+HUANUCO,HUANUCO,AMARILIS,47,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,19,Femenino,Administración,Diseño Publicitario
+LIMA,LIMA,SANTIAGO DE SURCO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,33,Masculino,Desarrollo de Sistemas de Información,Contabilidad
+CALLAO,CALLAO,VENTANILLA,20,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,22,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,INDEPENDENCIA,18,Masculino,Diseño Gráfico,Construcción Civil
+CALLAO,CALLAO,CALLAO,28,Masculino,Construcción Civil,Desarrollo de Sistemas de Información
+LIMA,LIMA,LOS OLIVOS,22,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Diseño Gráfico,Mecánica Automotriz
+CALLAO,CALLAO,LA PERLA,23,Masculino,Contabilidad,Administración
+LIMA,LIMA,SAN MIGUEL,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,21,Femenino,Diseño Gráfico,Secretariado Ejecutivo
+CUSCO,URUBAMBA,MARAS,18,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,50,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MIGUEL,17,Masculino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,19,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,17,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+ANCASH,PALLASCA,CONCHUCOS,17,Femenino,Construcción Civil,Desarrollo de Sistemas de Información
+LIMA,LIMA,LOS OLIVOS,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,18,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,26,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,CALLAO,22,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,LA PERLA,21,Femenino,Administración,Contabilidad
+LIMA,LIMA,INDEPENDENCIA,18,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,COMAS,17,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,BELLAVISTA,17,Femenino,Diseño Gráfico,Construcción Civil
+LIMA,LIMA,SAN MIGUEL,17,Femenino,Diseño Gráfico,Mecánica Automotriz
+LIMA,LIMA,LOS OLIVOS,21,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,21,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,20,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,BELLAVISTA,21,Masculino,Contabilidad,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Masculino,Contabilidad,Desarrollo de Sistemas de Información
+LIMA,LIMA,VILLA EL SALVADOR,24,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Diseño Publicitario,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,19,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,COMAS,20,Femenino,Secretariado Ejecutivo,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,CHACLACAYO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,PUENTE PIEDRA,28,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,LA PERLA,18,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,CARABAYLLO,20,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,54,Masculino,Mecánica Automotriz,Construcción Civil
+LIMA,LIMA,SAN MARTIN DE PORRES,34,Femenino,Contabilidad,Administración
+SAN MARTIN,RIOJA,RIOJA,22,Femenino,Diseño Publicitario,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LA VICTORIA,17,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,19,Femenino,Construcción Civil,Construcción Civil
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,COMAS,22,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,29,Masculino,Diseño Gráfico,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Administración,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,50,Masculino,Administración,Construcción Civil
+LIMA,LIMA,PUEBLO LIBRE,25,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LOS OLIVOS,28,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,19,Masculino,Diseño Gráfico,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,17,Femenino,Contabilidad,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,19,Masculino,Construcción Civil,Administración
+LIMA,LIMA,SAN MIGUEL,19,Masculino,Diseño Gráfico,Diseño Gráfico
+JUNIN,CHANCHAMAYO,PERENE,23,Femenino,Administración,Contabilidad
+LIMA,LIMA,LIMA,17,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,17,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,ATE,21,Masculino,Mecánica Automotriz,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,23,Masculino,Desarrollo de Sistemas de Información,Administración
+LIMA,LIMA,CHORRILLOS,20,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,19,Masculino,Mecánica Automotriz,Diseño Gráfico
+LIMA,LIMA,VILLA EL SALVADOR,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Masculino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,17,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+LIMA,LIMA,LIMA,40,Masculino,Administración,Diseño Gráfico
+LIMA,LIMA,PUENTE PIEDRA,20,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,18,Femenino,Contabilidad,Contabilidad
+LIMA,LIMA,ATE,26,Femenino,Diseño Gráfico,Administración
+LIMA,LIMA,ATE,17,Masculino,Desarrollo de Sistemas de Información,Administración
+LIMA,LIMA,LIMA,20,Femenino,Administración,Construcción Civil
+LIMA,LIMA,LIMA,36,Femenino,Contabilidad,Administración
+LIMA,LIMA,LOS OLIVOS,33,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LOS OLIVOS,18,Masculino,Diseño Gráfico,Mecánica Automotriz
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LIMA,22,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,30,Femenino,Administración,Contabilidad
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,26,Masculino,Construcción Civil,Contabilidad
+CALLAO,CALLAO,BELLAVISTA,19,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,20,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,17,Masculino,Diseño Gráfico,Mecánica de Producción
+LIMA,LIMA,SAN MIGUEL,22,Femenino,Desarrollo de Sistemas de Información,Contabilidad
+CALLAO,CALLAO,CALLAO,17,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,LIMA,18,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,19,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Diseño Gráfico,Mecánica de Producción
+CALLAO,CALLAO,VENTANILLA,19,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+LIMA,LIMA,LIMA,22,Femenino,Contabilidad,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,19,Masculino,Contabilidad,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,58,Femenino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+CALLAO,CALLAO,LA PERLA,23,Masculino,Administración,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,33,Femenino,Diseño Gráfico,Administración
+LIMA,LIMA,LA VICTORIA,17,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,18,Femenino,Desarrollo de Sistemas de Información,Mecánica de Producción
+LIMA,LIMA,SAN MIGUEL,25,Femenino,Construcción Civil,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,20,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,22,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,LA PERLA,22,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Administración,Contabilidad
+LIMA,LIMA,SAN MIGUEL,20,Masculino,Mecánica Automotriz,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,44,Femenino,Administración,Contabilidad
+LIMA,LIMA,LIMA,24,Masculino,Construcción Civil,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,17,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,22,Masculino,Mecánica Automotriz,Diseño Gráfico
+LIMA,LIMA,COMAS,19,Femenino,Contabilidad,Contabilidad
+LIMA,LIMA,SAN MIGUEL,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,20,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MIGUEL,33,Femenino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,45,Masculino,Mecánica de Producción,Construcción Civil
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,MAGDALENA DEL MAR,18,Masculino,Administración,Construcción Civil
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,24,Femenino,Diseño Publicitario,Contabilidad
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,22,Masculino,Administración,Administración
+LIMA,LIMA,SAN MIGUEL,22,Femenino,Administración,Administración
+LIMA,LIMA,ATE,19,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,29,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LIMA,26,Femenino,Secretariado Ejecutivo,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,24,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LOS OLIVOS,19,Femenino,Desarrollo de Sistemas de Información,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,21,Masculino,Mecánica Automotriz,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,21,Masculino,Mecánica Automotriz,Construcción Civil
+LIMA,LIMA,SAN MIGUEL,22,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,18,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,43,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,20,Femenino,Diseño Publicitario,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,40,Masculino,Administración,Contabilidad
+LIMA,LIMA,SAN MIGUEL,20,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,21,Masculino,Administración,Mecánica Automotriz
+CALLAO,CALLAO,LA PERLA,17,Femenino,Secretariado Ejecutivo,Diseño Gráfico
+LIMA,LIMA,CHORRILLOS,20,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,19,Masculino,Diseño Publicitario,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,26,Femenino,Administración,Diseño Publicitario
+LIMA,LIMA,COMAS,17,Femenino,Administración,Contabilidad
+LIMA,LIMA,SANTA ANITA,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,26,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,20,Masculino,Diseño Publicitario,Secretariado Ejecutivo
+LIMA,LIMA,JESUS MARIA,40,Femenino,Diseño Gráfico,Diseño Publicitario
+ICA,ICA,PACHACUTEC,19,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,CARABAYLLO,44,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,BELLAVISTA,21,Femenino,Administración,Administración
+LIMA,LIMA,SAN MIGUEL,22,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,22,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,19,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LIMA,27,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,61,Femenino,Secretariado Ejecutivo,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,25,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,26,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,35,Masculino,Diseño Gráfico,Contabilidad
+CALLAO,CALLAO,LA PERLA,26,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,42,Femenino,Secretariado Ejecutivo,Diseño Gráfico
+ANCASH,CARHUAZ,AMASHCA,20,Masculino,Construcción Civil,Administración
+CALLAO,CALLAO,CALLAO,48,Masculino,Construcción Civil,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,19,Femenino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,18,Femenino,Contabilidad,Secretariado Ejecutivo
+LIMA,LIMA,CARABAYLLO,18,Femenino,Diseño Gráfico,Construcción Civil
+CALLAO,CALLAO,CALLAO,18,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MIGUEL,50,Femenino,Secretariado Ejecutivo,Desarrollo de Sistemas de Información
+LIMA,LIMA,MAGDALENA DEL MAR,18,Femenino,Diseño Publicitario,Administración
+LIMA,LIMA,SAN MIGUEL,17,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,39,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,36,Masculino,Construcción Civil,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Construcción Civil,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,29,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,COMAS,18,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,21,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,22,Femenino,Administración,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Masculino,Diseño Publicitario,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,22,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,19,Masculino,Mecánica Automotriz,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,57,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,28,Femenino,Administración,Construcción Civil
+CALLAO,CALLAO,BELLAVISTA,19,Femenino,Administración,Contabilidad
+LIMA,LIMA,PUENTE PIEDRA,18,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,35,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+LIMA,LIMA,LIMA,18,Masculino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+LIMA,LIMA,ATE,19,Masculino,Administración,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,20,Masculino,Mecánica Automotriz,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,18,Masculino,Administración,Administración
+CALLAO,CALLAO,LA PERLA,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,26,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,17,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,BELLAVISTA,19,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,20,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,PUENTE PIEDRA,31,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,20,Masculino,Contabilidad,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,21,Masculino,Mecánica de Producción,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,17,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,31,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,19,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,CALLAO,17,Masculino,Desarrollo de Sistemas de Información,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,18,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Femenino,Administración,Secretariado Ejecutivo
+AYACUCHO,PARINACOCHAS,CORACORA,17,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,17,Masculino,Desarrollo de Sistemas de Información,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,22,Femenino,Contabilidad,Contabilidad
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,18,Masculino,Mecánica Automotriz,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,22,Femenino,Administración,Mecánica de Producción
+LIMA,LIMA,LIMA,18,Femenino,Diseño Publicitario,Construcción Civil
+LIMA,LIMA,SAN MIGUEL,28,Masculino,Desarrollo de Sistemas de Información,Contabilidad
+CALLAO,CALLAO,CALLAO,44,Masculino,Contabilidad,Contabilidad
+CALLAO,CALLAO,VENTANILLA,23,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,19,Masculino,Mecánica Automotriz,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,17,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+LIMA,LIMA,PUENTE PIEDRA,17,Femenino,Administración,Construcción Civil
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,21,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,20,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,26,Femenino,Contabilidad,Secretariado Ejecutivo
+LIMA,LIMA,LOS OLIVOS,28,Femenino,Contabilidad,Secretariado Ejecutivo
+LIMA,LIMA,SANTA ROSA,18,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,26,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,29,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,SAN MIGUEL,22,Femenino,Administración,Construcción Civil
+AYACUCHO,HUANTA,HUAMANGUILLA,20,Femenino,Construcción Civil,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Administración,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Contabilidad,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,18,Masculino,Mecánica Automotriz,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,21,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,BELLAVISTA,19,Masculino,Construcción Civil,Administración
+LIMA,LIMA,CARABAYLLO,19,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,18,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,19,Masculino,Administración,Contabilidad
+LIMA,LIMA,COMAS,25,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,29,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,18,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Gráfico,Secretariado Ejecutivo
+LIMA,LIMA,SAN MARTIN DE PORRES,16,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,17,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Contabilidad,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Mecánica Automotriz
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,28,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MIGUEL,27,Femenino,Contabilidad,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,20,Masculino,Construcción Civil,Administración
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,23,Masculino,Construcción Civil,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,19,Masculino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,21,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,COMAS,18,Femenino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Contabilidad,Mecánica de Producción
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,26,Femenino,Secretariado Ejecutivo,Administración
+LIMA,LIMA,SAN MIGUEL,30,Femenino,Contabilidad,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Femenino,Administración,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,20,Femenino,Administración,Administración
+CALLAO,CALLAO,VENTANILLA,24,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,21,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,PUEBLO LIBRE,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,34,Femenino,Contabilidad,Administración
+LIMA,LIMA,PUEBLO LIBRE,19,Femenino,Secretariado Ejecutivo,Administración
+LIMA,LIMA,LIMA,17,Femenino,Diseño Publicitario,Diseño Gráfico
+ANCASH,POMABAMBA,POMABAMBA,46,Masculino,Secretariado Ejecutivo,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,55,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,21,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,22,Masculino,Mecánica Automotriz,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,62,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,44,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LIMA,20,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,27,Masculino,Contabilidad,Construcción Civil
+CALLAO,CALLAO,CALLAO,21,Masculino,Administración,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,20,Masculino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,19,Masculino,Mecánica de Producción,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,20,Masculino,Construcción Civil,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,CALLAO,19,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,21,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LA VICTORIA,19,Masculino,Diseño Gráfico,Administración
+LIMA,LIMA,SURQUILLO,36,Masculino,Mecánica Automotriz,Administración
+CALLAO,CALLAO,VENTANILLA,17,Femenino,Diseño Publicitario,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,BELLAVISTA,35,Femenino,Desarrollo de Sistemas de Información,Contabilidad
+LIMA,LIMA,CARABAYLLO,21,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,CARABAYLLO,25,Femenino,Secretariado Ejecutivo,Diseño Publicitario
+LIMA,LIMA,PUENTE PIEDRA,34,Femenino,Contabilidad,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,24,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,25,Femenino,Administración,Administración
+CALLAO,CALLAO,LA PERLA,39,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,31,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Contabilidad,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,20,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,MIRAFLORES,24,Masculino,Administración,Mecánica de Producción
+LIMA,LIMA,SAN MIGUEL,20,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,30,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,22,Masculino,Mecánica Automotriz,Desarrollo de Sistemas de Información
+LIMA,LIMA,COMAS,19,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,43,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LOS OLIVOS,27,Masculino,Mecánica de Producción,Construcción Civil
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,26,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,LA PERLA,19,Masculino,Administración,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,21,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,VENTANILLA,20,Femenino,Administración,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Femenino,Diseño Gráfico,Mecánica de Producción
+LIMA,LIMA,LOS OLIVOS,44,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+LIMA,LIMA,PUENTE PIEDRA,24,Femenino,Administración,Contabilidad
+LIMA,LIMA,LIMA,17,Femenino,Contabilidad,Mecánica de Producción
+LIMA,LIMA,JESUS MARIA,48,Femenino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,44,Masculino,Administración,Administración
+CALLAO,CALLAO,CALLAO,20,Femenino,Contabilidad,Secretariado Ejecutivo
+LIMA,LIMA,PUEBLO LIBRE,29,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,22,Masculino,Diseño Publicitario,Desarrollo de Sistemas de Información
+LAMBAYEQUE,CHICLAYO,ETEN,17,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MIGUEL,53,Femenino,Contabilidad,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,20,Masculino,Mecánica de Producción,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,22,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,24,Masculino,Administración,Contabilidad
+LIMA,LIMA,LOS OLIVOS,17,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,18,Masculino,Construcción Civil,Contabilidad
+LIMA,LIMA,SAN MIGUEL,17,Masculino,Contabilidad,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,18,Femenino,Contabilidad,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Masculino,Desarrollo de Sistemas de Información,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Femenino,Administración,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+LIMA,LIMA,CIENEGUILLA,19,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,26,Femenino,Administración,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,17,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+LIMA,LIMA,INDEPENDENCIA,18,Femenino,Diseño Gráfico,Contabilidad
+LIMA,LIMA,LIMA,17,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Masculino,Contabilidad,Contabilidad
+CALLAO,CALLAO,VENTANILLA,17,Femenino,Administración,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,LA PERLA,24,Femenino,Administración,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Femenino,Administración,Administración
+LIMA,LIMA,LINCE,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,29,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,18,Masculino,Mecánica Automotriz,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,26,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,46,Masculino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,20,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,VILLA EL SALVADOR,25,Femenino,Diseño Gráfico,Diseño Publicitario
+PIURA,AYABACA,SAPILLICA,19,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,18,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,20,Masculino,Administración,Administración
+AREQUIPA,CARAVELI,BELLA UNION,19,Masculino,Mecánica de Producción,Administración
+LIMA,LIMA,INDEPENDENCIA,28,Masculino,Secretariado Ejecutivo,Contabilidad
+LIMA,LIMA,SAN ISIDRO,27,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+LIMA,LIMA,ATE,18,Masculino,Administración,Administración
+AREQUIPA,CARAVELI,BELLA UNION,24,Femenino,Secretariado Ejecutivo,Contabilidad
+LIMA,LIMA,LINCE,21,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,COMAS,29,Femenino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,25,Femenino,Administración,Contabilidad
+LIMA,LIMA,LIMA,20,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,38,Masculino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,19,Masculino,Contabilidad,Mecánica Automotriz
+LIMA,LIMA,LA VICTORIA,18,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,21,Masculino,Mecánica de Producción,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,19,Femenino,Administración,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,23,Masculino,Desarrollo de Sistemas de Información,Administración
+AREQUIPA,AREQUIPA,AREQUIPA,27,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,23,Masculino,Desarrollo de Sistemas de Información,Mecánica de Producción
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,19,Femenino,Contabilidad,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,26,Femenino,Desarrollo de Sistemas de Información,Contabilidad
+CALLAO,CALLAO,BELLAVISTA,42,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,43,Femenino,Construcción Civil,Contabilidad
+CALLAO,CALLAO,LA PERLA,29,Femenino,Diseño Gráfico,Administración
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,39,Femenino,Diseño Gráfico,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,20,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,BELLAVISTA,31,Femenino,Contabilidad,Administración
+LIMA,LIMA,COMAS,43,Masculino,Construcción Civil,Diseño Gráfico
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,18,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,PACHACAMAC,17,Masculino,Construcción Civil,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Administración,Administración
+CALLAO,CALLAO,CALLAO,19,Masculino,Desarrollo de Sistemas de Información,Contabilidad
+CALLAO,CALLAO,CALLAO,21,Femenino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,21,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,LIMA,25,Femenino,Administración,Contabilidad
+LIMA,LIMA,LIMA,25,Masculino,Administración,Administración
+CALLAO,CALLAO,VENTANILLA,24,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,LA PERLA,18,Masculino,Diseño Gráfico,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,CHORRILLOS,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,33,Masculino,Construcción Civil,Administración
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,38,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,18,Masculino,Diseño Publicitario,Contabilidad
+CALLAO,CALLAO,CALLAO,24,Femenino,Administración,Administración
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,37,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,EL AGUSTINO,22,Masculino,Contabilidad,Administración
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,21,Masculino,Mecánica de Producción,Mecánica de Producción
+CALLAO,CALLAO,LA PERLA,25,Femenino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,46,Femenino,Contabilidad,Secretariado Ejecutivo
+LIMA,LIMA,PUEBLO LIBRE,18,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,20,Femenino,Contabilidad,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,20,Masculino,Administración,Diseño Gráfico
+LIMA,LIMA,SANTA ANITA,18,Masculino,Diseño Gráfico,Diseño Publicitario
+SAN MARTIN,TOCACHE,POLVORA,23,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,26,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+LIMA,LIMA,SAN MARTIN DE PORRES,18,Masculino,Contabilidad,Administración
+LIMA,LIMA,EL AGUSTINO,20,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,25,Masculino,Administración,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,CHORRILLOS,29,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,40,Masculino,Construcción Civil,Mecánica Automotriz
+LIMA,LIMA,SAN MIGUEL,31,Femenino,Secretariado Ejecutivo,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,EL AGUSTINO,18,Femenino,Contabilidad,Contabilidad
+LIMA,LIMA,ATE,47,Femenino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SANTA ANITA,34,Masculino,Construcción Civil,Administración
+CALLAO,CALLAO,CALLAO,17,Masculino,Diseño Gráfico,Construcción Civil
+LIMA,LIMA,SANTA ANITA,34,Masculino,Administración,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,17,Femenino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,38,Masculino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,20,Masculino,Diseño Gráfico,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Publicitario,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,19,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,18,Femenino,Diseño Gráfico,Administración
+LIMA,LIMA,ATE,30,Femenino,Administración,Contabilidad
+LIMA,LIMA,ATE,25,Femenino,Administración,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,24,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,20,Masculino,Contabilidad,Diseño Gráfico
+LIMA,LIMA,CHORRILLOS,24,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,COMAS,37,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MARTIN DE PORRES,60,Femenino,Secretariado Ejecutivo,Administración
+LIMA,LIMA,SAN LUIS,18,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,SAN MARTIN DE PORRES,20,Masculino,Administración,Administración
+LIMA,LIMA,SAN MIGUEL,19,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,60,Femenino,Contabilidad,Administración
+LIMA,LIMA,LIMA,58,Masculino,Contabilidad,Secretariado Ejecutivo
+LIMA,LIMA,CIENEGUILLA,19,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,LIMA,22,Masculino,Contabilidad,Administración
+LIMA,LIMA,SAN ISIDRO,39,Femenino,Administración,Contabilidad
+LIMA,LIMA,LIMA,30,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,19,Femenino,Diseño Publicitario,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,26,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,27,Femenino,Administración,Administración
+CALLAO,CALLAO,CALLAO,48,Femenino,Administración,Contabilidad
+LIMA,CAÑETE,NUEVO IMPERIAL,20,Masculino,Construcción Civil,Construcción Civil
+LIMA,LIMA,COMAS,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,19,Masculino,Administración,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,EL AGUSTINO,30,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,17,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,17,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,21,Femenino,Administración,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,20,Masculino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,LA PERLA,31,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LIMA,17,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,22,Femenino,Secretariado Ejecutivo,Contabilidad
+CALLAO,CALLAO,LA PERLA,42,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,BELLAVISTA,17,Femenino,Secretariado Ejecutivo,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,45,Femenino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,19,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,BELLAVISTA,33,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,20,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,LIMA,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,36,Masculino,Administración,Construcción Civil
+LIMA,LIMA,ATE,20,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,19,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LA VICTORIA,40,Femenino,Administración,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,32,Femenino,Administración,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,35,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,18,Femenino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,18,Masculino,Contabilidad,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,29,Femenino,Contabilidad,Contabilidad
+LIMA,LIMA,SAN MIGUEL,20,Masculino,Mecánica de Producción,Mecánica Automotriz
+CALLAO,CALLAO,LA PERLA,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MIGUEL,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,PUENTE PIEDRA,30,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MIGUEL,47,Masculino,Administración,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,31,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,20,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,22,Femenino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+LIMA,LIMA,LA VICTORIA,23,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,30,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,27,Masculino,Administración,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,42,Masculino,Mecánica Automotriz,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,24,Masculino,Administración,Contabilidad
+LIMA,LIMA,SAN MARTIN DE PORRES,21,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,23,Masculino,Administración,Contabilidad
+LIMA,LIMA,BREÑA,22,Masculino,Diseño Publicitario,Administración
+CALLAO,CALLAO,LA PERLA,17,Masculino,Desarrollo de Sistemas de Información,Mecánica Automotriz
+LIMA,LIMA,LIMA,22,Femenino,Administración,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LA VICTORIA,25,Masculino,Mecánica Automotriz,Secretariado Ejecutivo
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,COMAS,36,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,LOS OLIVOS,22,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,30,Femenino,Contabilidad,Contabilidad
+LIMA,LIMA,VILLA MARIA DEL TRIUNFO,27,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LIMA,21,Masculino,Contabilidad,Construcción Civil
+LIMA,LIMA,SAN MIGUEL,18,Femenino,Administración,Administración
+CALLAO,CALLAO,VENTANILLA,25,Femenino,Administración,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,48,Femenino,Administración,Secretariado Ejecutivo
+LIMA,LIMA,PUENTE PIEDRA,22,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LOS OLIVOS,37,Masculino,Contabilidad,Mecánica Automotriz
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,18,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,EL AGUSTINO,18,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,18,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,21,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,22,Masculino,Diseño Publicitario,Mecánica Automotriz
+LIMA,LIMA,LIMA,20,Masculino,Desarrollo de Sistemas de Información,Mecánica de Producción
+LIMA,LIMA,VILLA MARIA DEL TRIUNFO,18,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,LIMA,23,Masculino,Contabilidad,Mecánica Automotriz
+LIMA,LIMA,LIMA,28,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,21,Masculino,Diseño Publicitario,Secretariado Ejecutivo
+LIMA,LIMA,SANTA ANITA,18,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,32,Femenino,Contabilidad,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,26,Femenino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,CIENEGUILLA,19,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,17,Femenino,Diseño Publicitario,Mecánica Automotriz
+LIMA,LIMA,SAN MARTIN DE PORRES,19,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SANTIAGO DE SURCO,18,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,RIMAC,19,Masculino,Diseño Publicitario,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,21,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,38,Femenino,Contabilidad,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Mecánica Automotriz,Mecánica de Producción
+CALLAO,CALLAO,CALLAO,19,Femenino,Administración,Administración
+LIMA,LIMA,BREÑA,59,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,VENTANILLA,19,Femenino,Diseño Publicitario,Secretariado Ejecutivo
+LIMA,LIMA,LIMA,52,Masculino,Administración,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,20,Femenino,Administración,Diseño Publicitario
+LA LIBERTAD,TRUJILLO,TRUJILLO,35,Masculino,Administración,Administración
+CALLAO,CALLAO,CALLAO,26,Femenino,Contabilidad,Administración
+LIMA,LIMA,CHACLACAYO,44,Masculino,Contabilidad,Diseño Gráfico
+LIMA,LIMA,SAN JUAN DE MIRAFLORES,18,Femenino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,23,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario
+LIMA,LIMA,BREÑA,17,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,CALLAO,21,Femenino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,COMAS,18,Masculino,Contabilidad,Administración
+LIMA,LIMA,ATE,20,Masculino,Contabilidad,Diseño Gráfico
+CALLAO,CALLAO,LA PERLA,18,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Mecánica Automotriz,Mecánica de Producción
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,22,Masculino,Diseño Gráfico,Mecánica Automotriz
+CALLAO,CALLAO,VENTANILLA,21,Masculino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,SANTA ANITA,40,Masculino,Desarrollo de Sistemas de Información,Administración
+LIMA,LIMA,SAN ISIDRO,25,Masculino,Mecánica Automotriz,Mecánica Automotriz
+CALLAO,CALLAO,CALLAO,21,Masculino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,LOS OLIVOS,32,Femenino,Contabilidad,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,34,Masculino,Desarrollo de Sistemas de Información,Administración
+LIMA,LIMA,SAN MARTIN DE PORRES,29,Masculino,Administración,Mecánica Automotriz
+LIMA,LIMA,LIMA,18,Femenino,Desarrollo de Sistemas de Información,Diseño Publicitario
+CALLAO,CALLAO,LA PERLA,20,Femenino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,INDEPENDENCIA,37,Femenino,Secretariado Ejecutivo,Secretariado Ejecutivo
+CALLAO,CALLAO,LA PERLA,21,Masculino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Masculino,Desarrollo de Sistemas de Información,Administración
+CALLAO,CALLAO,LA PERLA,24,Masculino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,SAN MIGUEL,18,Masculino,Administración,Administración
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,19,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LIMA,18,Femenino,Administración,Administración
+CALLAO,CALLAO,BELLAVISTA,20,Masculino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,INDEPENDENCIA,17,Femenino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,23,Masculino,Construcción Civil,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Mecánica de Producción,Contabilidad
+LIMA,LIMA,EL AGUSTINO,22,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,24,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,19,Femenino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,22,Femenino,Contabilidad,Administración
+LIMA,LIMA,LOS OLIVOS,18,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,32,Masculino,Contabilidad,Administración
+LIMA,LIMA,CIENEGUILLA,38,Masculino,Mecánica de Producción,Mecánica Automotriz
+LIMA,LIMA,VILLA MARIA DEL TRIUNFO,24,Femenino,Diseño Gráfico,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,17,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,17,Masculino,Diseño Gráfico,Diseño Gráfico
+LIMA,LIMA,SAN MIGUEL,26,Masculino,Desarrollo de Sistemas de Información,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,BELLAVISTA,17,Femenino,Diseño Gráfico,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,CALLAO,18,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,LIMA,29,Femenino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,CHORRILLOS,18,Masculino,Diseño Publicitario,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,20,Masculino,Contabilidad,Diseño Gráfico
+LIMA,LIMA,LOS OLIVOS,19,Masculino,Contabilidad,Administración
+LIMA,LIMA,EL AGUSTINO,31,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,EL AGUSTINO,27,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,SAN MARTIN DE PORRES,31,Femenino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,VENTANILLA,28,Masculino,Administración,Construcción Civil
+CALLAO,CALLAO,CALLAO,18,Masculino,Construcción Civil,Desarrollo de Sistemas de Información
+LIMA,LIMA,LOS OLIVOS,18,Femenino,Diseño Publicitario,Diseño Gráfico
+CALLAO,CALLAO,VENTANILLA,31,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+LIMA,LIMA,VILLA MARIA DEL TRIUNFO,53,Masculino,Mecánica Automotriz,Mecánica de Producción
+LIMA,LIMA,CHORRILLOS,23,Femenino,Contabilidad,Desarrollo de Sistemas de Información
+LIMA,LIMA,SAN MARTIN DE PORRES,36,Masculino,Desarrollo de Sistemas de Información,Construcción Civil
+CALLAO,CALLAO,VENTANILLA,27,Masculino,Construcción Civil,Mecánica Automotriz
+LIMA,LIMA,SAN MARTIN DE PORRES,39,Femenino,Desarrollo de Sistemas de Información,Diseño Gráfico
+CALLAO,CALLAO,BELLAVISTA,32,Masculino,Construcción Civil,Mecánica Automotriz
+LIMA,LIMA,COMAS,29,Femenino,Contabilidad,Administración
+LIMA,LIMA,PUEBLO LIBRE,21,Masculino,Contabilidad,Mecánica Automotriz
+LIMA,LIMA,LIMA,20,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,ATE,33,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,VENTANILLA,19,Masculino,Diseño Gráfico,Diseño Gráfico
+ICA,PISCO,PISCO,24,Femenino,Administración,Construcción Civil
+LIMA,LIMA,INDEPENDENCIA,50,Femenino,Desarrollo de Sistemas de Información,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,24,Masculino,Administración,Mecánica Automotriz
+LIMA,LIMA,SAN LUIS,17,Masculino,Desarrollo de Sistemas de Información,Diseño Gráfico
+LIMA,LIMA,SAN MARTIN DE PORRES,23,Femenino,Administración,Diseño Publicitario
+CALLAO,CALLAO,CALLAO,20,Masculino,Mecánica Automotriz,Mecánica Automotriz
+LIMA,LIMA,SAN MARTIN DE PORRES,48,Femenino,Administración,Secretariado Ejecutivo
+CALLAO,CALLAO,BELLAVISTA,18,Masculino,Administración,Contabilidad
+CALLAO,CALLAO,LA PERLA,28,Femenino,Secretariado Ejecutivo,Diseño Publicitario
+LIMA,LIMA,SAN MARTIN DE PORRES,35,Masculino,Diseño Gráfico,Desarrollo de Sistemas de Información
+CALLAO,CALLAO,CALLAO,28,Masculino,Administración,Desarrollo de Sistemas de Información
+LIMA,LIMA,CHORRILLOS,26,Masculino,Diseño Gráfico,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,23,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,BELLAVISTA,27,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,CALLAO,42,Femenino,Mecánica de Producción,Mecánica de Producción
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,26,Femenino,Administración,Administración
+CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,52,Masculino,Administración,Contabilidad
+LIMA,LIMA,JESUS MARIA,32,Femenino,Administración,Administración
+CALLAO,CALLAO,VENTANILLA,18,Masculino,Contabilidad,Administración
+LIMA,LIMA,LURIGANCHO,19,Femenino,Contabilidad,Contabilidad
+CALLAO,CALLAO,CALLAO,25,Femenino,Contabilidad,Administración
+CALLAO,CALLAO,CALLAO,41,Femenino,Administración,Diseño Gráfico
+LIMA,LIMA,RIMAC,49,Femenino,Secretariado Ejecutivo,Administración
+CALLAO,CALLAO,CALLAO,27,Femenino,Secretariado Ejecutivo,Diseño Publicitario
+LIMA,LIMA,SAN JUAN DE LURIGANCHO,34,Masculino,Desarrollo de Sistemas de Información,Diseño Publicitario

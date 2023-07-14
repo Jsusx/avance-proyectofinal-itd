@@ -1,0 +1,862 @@
+FECHA_CORTE,UBIGEO,DEPARTAMENTO,PROVINCIA,DISTRITO,ANNIO,MODALIDAD_DE_POSTULACION,EBA_EBR,EGRESO_SECUNDARIA,PRIMERA_OPCION,PRIMERA_OPCION_TURNO,SEGUNDA_OPCION,SEGUNDA_OPCION_TURNO,EDAD,SEXO
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Conadis,EBR - Educación Básica Regular,2007,Contabilidad,Nocturno,Administración,Nocturno,31,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,21,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Contabilidad,Nocturno,Administración,Nocturno,40,Femenino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Nocturno,Construcción Civil,Nocturno,20,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Administración,Nocturno,Contabilidad,Nocturno,28,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2019,Contabilidad,Nocturno,Mecánica de Producción,Nocturno,20,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Nocturno,Administración,Nocturno,20,Masculino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Primeros Puestos,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Administración,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Construcción Civil,Diurno,Mecánica de Producción,Diurno,19,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,25,Masculino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Diurno,Administración,Diurno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Conadis,EBR - Educación Básica Regular,2006,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,32,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,24,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Administración,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,21,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Construcción Civil,Nocturno,Diseño Gráfico,Nocturno,22,Masculino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,20,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Mecánica Automotriz,Nocturno,Diseño Publicitario,Nocturno,22,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Gráfico,Diurno,20,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1999,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,40,Masculino
+20230320,150143,LIMA,LIMA,VILLA MARIA DEL TRIUNFO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,22,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,20,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Mecánica Automotriz,Diurno,Desarrollo de Sistemas de Información,Diurno,31,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Administración,Nocturno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Administración,Diurno,18,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,150116,LIMA,LIMA,LINCE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Conadis,EBR - Educación Básica Regular,2011,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,27,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Desarrollo de Sistemas de Información,Diurno,Contabilidad,Diurno,28,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Contabilidad,Diurno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Administración,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Nocturno,28,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Construcción Civil,Diurno,Contabilidad,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Mecánica Automotriz,Nocturno,19,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,17,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,23,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Secretariado Ejecutivo,Diurno,17,Femenino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,30,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,20,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,17,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Administración,Diurno,Secretariado Ejecutivo,Diurno,31,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Diurno,Administración,Diurno,22,Masculino
+20230320,150130,LIMA,LIMA,SAN BORJA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Construcción Civil,Nocturno,Administración,Nocturno,35,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Contabilidad,Nocturno,18,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Construcción Civil,Diurno,18,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Administración,Nocturno,Contabilidad,Nocturno,35,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,20,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Diseño Publicitario,Nocturno,Desarrollo de Sistemas de Información,Nocturno,32,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,22,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,26,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Administración,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Administración,Diurno,Administración,Diurno,19,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,120604,JUNIN,SATIPO,MAZAMARI,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Diurno,Construcción Civil,Diurno,20,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Femenino
+20230320,160301,LORETO,LORETO,NAUTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica Automotriz,Diurno,Administración,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Mecánica Automotriz,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,17,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,19,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Diurno,Diseño Publicitario,Diurno,20,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Contabilidad,Diurno,Administración,Diurno,25,Femenino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2003,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,36,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,44,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Mecánica de Producción,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Desarrollo de Sistemas de Información,Diurno,17,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Administración,Diurno,19,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Diurno,Secretariado Ejecutivo,Diurno,25,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Mecánica Automotriz,Nocturno,Mecánica de Producción,Nocturno,31,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,30,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,27,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Nocturno,Mecánica Automotriz,Nocturno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Diurno,Administración,Diurno,20,Masculino
+20230320,150143,LIMA,LIMA,VILLA MARIA DEL TRIUNFO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,23,Femenino
+20230320,130402,LA LIBERTAD,CHEPEN,PACANGA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Construcción Civil,Nocturno,Mecánica Automotriz,Nocturno,23,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Administración,Diurno,Diseño Gráfico,Diurno,32,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Construcción Civil,Diurno,Mecánica de Producción,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,21,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Nocturno,Mecánica Automotriz,Nocturno,24,Masculino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Nocturno,Contabilidad,Nocturno,19,Masculino
+20230320,240101,TUMBES,TUMBES,TUMBES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Mecánica de Producción,Diurno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,17,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Conadis,EBR - Educación Básica Regular,2017,Diseño Gráfico,Diurno,Mecánica de Producción,Diurno,22,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2012,Desarrollo de Sistemas de Información,Diurno,Secretariado Ejecutivo,Diurno,25,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Conadis,EBR - Educación Básica Regular,1994,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,44,Masculino
+20230320,211101,PUNO,SAN ROMAN,JULIACA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Contabilidad,Nocturno,Construcción Civil,Nocturno,23,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1994,Construcción Civil,Diurno,Mecánica de Producción,Diurno,44,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Gráfico,Diurno,Mecánica de Producción,Diurno,26,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Diurno,Diseño Publicitario,Diurno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Contabilidad,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,17,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Mecánica Automotriz,Nocturno,17,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Secretariado Ejecutivo,Diurno,Diseño Gráfico,Diurno,21,Femenino
+20230320,190103,PASCO,PASCO,HUARIACA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2000,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,39,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,18,
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Administración,Nocturno,26,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2016,Diseño Publicitario,Diurno,Desarrollo de Sistemas de Información,Diurno,24,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Mecánica de Producción,Diurno,20,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,21,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Mecánica de Producción,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Administración,Diurno,Contabilidad,Diurno,25,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150140,LIMA,LIMA,SANTIAGO DE SURCO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,20,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2010,Secretariado Ejecutivo,Nocturno,Administración,Nocturno,32,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150116,LIMA,LIMA,LINCE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,22,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Secretariado Ejecutivo,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,20,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Construcción Civil,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Construcción Civil,Diurno,17,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Nocturno,Desarrollo de Sistemas de Información,Nocturno,20,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Mecánica Automotriz,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,29,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Nocturno,Diseño Publicitario,Nocturno,24,
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2008,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,34,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Diurno,Secretariado Ejecutivo,Nocturno,22,
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Diurno,Administración,Diurno,22,Femenino
+20230320,21801,ANCASH,SANTA,CHIMBOTE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Administración,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,22,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Desarrollo de Sistemas de Información,Nocturno,Mecánica Automotriz,Nocturno,24,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,22,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Nocturno,23,Masculino
+20230320,100102,HUANUCO,HUANUCO,AMARILIS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1992,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,47,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150140,LIMA,LIMA,SANTIAGO DE SURCO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2007,Desarrollo de Sistemas de Información,Nocturno,Contabilidad,Nocturno,33,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Contabilidad,Diurno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,22,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Construcción Civil,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Construcción Civil,Nocturno,Desarrollo de Sistemas de Información,Nocturno,28,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Diurno,Administración,Diurno,22,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Diurno,Administración,Diurno,23,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Secretariado Ejecutivo,Diurno,21,Femenino
+20230320,81305,CUSCO,URUBAMBA,MARAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Nocturno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1988,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,50,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Administración,Nocturno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,21503,ANCASH,PALLASCA,CONCHUCOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Construcción Civil,Diurno,Desarrollo de Sistemas de Información,Diurno,17,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,20,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2016,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,26,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,22,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Nocturno,Contabilidad,Nocturno,21,Femenino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Construcción Civil,Diurno,17,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Mecánica Automotriz,Diurno,17,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Nocturno,Administración,Nocturno,21,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,21,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,,Secretariado Ejecutivo,Nocturno,Administración,Nocturno,19,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Servicio Militar,EBA - Educación Básica Alternativa,2018,Contabilidad,Nocturno,Contabilidad,Nocturno,21,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150142,LIMA,LIMA,VILLA EL SALVADOR,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,24,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Mecánica de Producción,Diurno,Mecánica Automotriz,Diurno,20,
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Secretariado Ejecutivo,Nocturno,Diseño Gráfico,Nocturno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,150107,LIMA,LIMA,CHACLACAYO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Conadis,EBR - Educación Básica Regular,2013,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,28,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Administración,Nocturno,19,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Desarrollo de Sistemas de Información,Nocturno,18,Masculino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Conadis,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Administración,Diurno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1984,Mecánica Automotriz,Diurno,Construcción Civil,Diurno,54,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Contabilidad,Nocturno,Administración,Diurno,34,Femenino
+20230320,220801,SAN MARTIN,RIOJA,RIOJA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Publicitario,Nocturno,Diseño Publicitario,Nocturno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Conadis,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Administración,Diurno,17,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Construcción Civil,Diurno,Construcción Civil,Nocturno,19,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Secretariado Ejecutivo,Diurno,19,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Conadis,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Publicitario,Diurno,22,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Diseño Gráfico,Diurno,Mecánica Automotriz,Diurno,29,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1991,Administración,Nocturno,Construcción Civil,Nocturno,50,Masculino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2017,Administración,Nocturno,Secretariado Ejecutivo,Diurno,25,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2004,Secretariado Ejecutivo,Diurno,Administración,Diurno,33,
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Administración,Diurno,Secretariado Ejecutivo,Diurno,28,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Contabilidad,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Contabilidad,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Construcción Civil,Nocturno,Administración,Nocturno,19,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,120302,JUNIN,CHANCHAMAYO,PERENE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Contabilidad,Nocturno,23,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Contabilidad,Diurno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica Automotriz,Diurno,Mecánica Automotriz,Diurno,21,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,23,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,22,
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,20,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,25,
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica Automotriz,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,
+20230320,150142,LIMA,LIMA,VILLA EL SALVADOR,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Administración,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,17,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1994,Administración,Nocturno,Diseño Gráfico,Nocturno,40,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,20,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Contabilidad,Diurno,18,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Diseño Gráfico,Nocturno,Administración,Nocturno,26,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,17,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Diurno,Construcción Civil,Diurno,20,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2002,Contabilidad,Diurno,Administración,Diurno,36,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,33,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,17,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Diurno,Secretariado Ejecutivo,Nocturno,22,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Administración,Diurno,Contabilidad,Diurno,30,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Construcción Civil,Diurno,Contabilidad,Diurno,26,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Mecánica de Producción,Diurno,17,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2018,Desarrollo de Sistemas de Información,Nocturno,Contabilidad,Nocturno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2022,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,19,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Diurno,Mecánica de Producción,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Contabilidad,Diurno,Diseño Publicitario,Diurno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Desarrollo de Sistemas de Información,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1982,Desarrollo de Sistemas de Información,Nocturno,Secretariado Ejecutivo,Nocturno,58,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Diurno,Diseño Publicitario,Diurno,23,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Diseño Gráfico,Nocturno,Administración,Nocturno,33,Femenino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Diurno,Secretariado Ejecutivo,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Mecánica de Producción,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Construcción Civil,Diurno,Diseño Gráfico,Diurno,25,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,20,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Nocturno,22,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,22,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Contabilidad,Diurno,18,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Mecánica Automotriz,Nocturno,Diseño Gráfico,Nocturno,20,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Administración,Nocturno,Contabilidad,Nocturno,44,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Construcción Civil,Nocturno,Desarrollo de Sistemas de Información,Nocturno,24,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Servicio Militar,EBR - Educación Básica Regular,2017,Mecánica Automotriz,Diurno,Diseño Gráfico,Diurno,22,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Nocturno,Contabilidad,Nocturno,19,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Contabilidad,Diurno,Administración,Diurno,20,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,33,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,1999,Mecánica de Producción,Nocturno,Construcción Civil,Nocturno,45,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150120,LIMA,LIMA,MAGDALENA DEL MAR,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Administración,Diurno,Construcción Civil,Diurno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Diseño Publicitario,Diurno,Contabilidad,Diurno,24,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Nocturno,Administración,Nocturno,22,Masculino
+20230320,150128,LIMA,LIMA,RIMAC,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1997,Contabilidad,Nocturno,Administración,Nocturno,43,
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Diurno,Administración,Diurno,22,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,29,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Secretariado Ejecutivo,Nocturno,Diseño Publicitario,Nocturno,26,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2019,Administración,Diurno,Secretariado Ejecutivo,Diurno,24,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Mecánica de Producción,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Servicio Militar,EBA - Educación Básica Alternativa,2021,Mecánica Automotriz,Nocturno,Desarrollo de Sistemas de Información,Nocturno,21,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica Automotriz,Nocturno,Construcción Civil,Nocturno,21,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,22,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Diseño Gráfico,Diurno,18,
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Contabilidad,Nocturno,Administración,Nocturno,43,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Nocturno,Administración,Nocturno,20,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2005,Administración,Nocturno,Contabilidad,Nocturno,40,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Mecánica Automotriz,Diurno,21,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Secretariado Ejecutivo,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,20,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,19,Femenino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Desarrollo de Sistemas de Información,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Diseño Publicitario,Nocturno,26,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Diurno,Contabilidad,Diurno,17,Femenino
+20230320,150137,LIMA,LIMA,SANTA ANITA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,26,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,20,Masculino
+20230320,150113,LIMA,LIMA,JESUS MARIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1998,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,40,Femenino
+20230320,110105,ICA,ICA,PACHACUTEC,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,19,Masculino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1996,Administración,Nocturno,Contabilidad,Nocturno,44,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,5,Administración,Nocturno,Administración,Nocturno,21,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Administración,Diurno,22,
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2018,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,22,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Nocturno,Contabilidad,Nocturno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,19,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Diurno,27,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1979,Secretariado Ejecutivo,Diurno,Diseño Gráfico,Diurno,61,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Contabilidad,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,25,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,26,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Diseño Gráfico,Nocturno,Contabilidad,Nocturno,35,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,26,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Secretariado Ejecutivo,Nocturno,Diseño Gráfico,Nocturno,42,Femenino
+20230320,20603,ANCASH,CARHUAZ,AMASHCA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Construcción Civil,Diurno,Administración,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1994,Construcción Civil,Nocturno,Desarrollo de Sistemas de Información,Nocturno,48,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Construcción Civil,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1988,Secretariado Ejecutivo,Nocturno,Desarrollo de Sistemas de Información,Nocturno,50,Femenino
+20230320,150120,LIMA,LIMA,MAGDALENA DEL MAR,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Administración,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Contabilidad,Diurno,17,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Diurno,Administración,Diurno,19,
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2000,Administración,Nocturno,Contabilidad,Nocturno,39,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2003,Construcción Civil,Nocturno,Administración,Nocturno,36,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Construcción Civil,Diurno,Contabilidad,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2012,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,29,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Nocturno,Contabilidad,Nocturno,21,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Diurno,Contabilidad,Nocturno,22,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,,Diseño Publicitario,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,22,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Secretariado Ejecutivo,Nocturno,Administración,Nocturno,57,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Administración,Nocturno,Construcción Civil,Nocturno,28,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Nocturno,Contabilidad,Nocturno,19,Femenino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Contabilidad,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,35,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Secretariado Ejecutivo,Diurno,18,Masculino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Administración,Nocturno,18,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Contabilidad,Nocturno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,26,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Administración,Diurno,17,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Administración,Nocturno,28,
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2019,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Nocturno,Administración,Nocturno,31,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Diurno,Mecánica Automotriz,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica de Producción,Diurno,Mecánica Automotriz,Diurno,21,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,17,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Diseño Gráfico,Diurno,Administración,Diurno,31,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Secretariado Ejecutivo,Diurno,Administración,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Diurno,Mecánica de Producción,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Secretariado Ejecutivo,Diurno,17,Femenino
+20230320,50701,AYACUCHO,PARINACOCHAS,CORACORA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Contabilidad,Diurno,17,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Contabilidad,Diurno,17,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Nocturno,Contabilidad,Nocturno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,17,
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Mecánica Automotriz,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2012,Administración,Nocturno,Construcción Civil,Diurno,27,
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Nocturno,Mecánica de Producción,Nocturno,22,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Construcción Civil,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Desarrollo de Sistemas de Información,Diurno,Contabilidad,Diurno,28,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1997,Contabilidad,Nocturno,Contabilidad,Nocturno,44,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,23,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Construcción Civil,Diurno,17,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Construcción Civil,Nocturno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,21,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,20,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,26,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2017,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,28,Femenino
+20230320,150139,LIMA,LIMA,SANTA ROSA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Contabilidad,Nocturno,Administración,Nocturno,26,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2009,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,29,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Diurno,Construcción Civil,Diurno,22,Femenino
+20230320,50403,AYACUCHO,HUANTA,HUAMANGUILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Construcción Civil,Diurno,Diseño Gráfico,Diurno,20,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Diurno,Mecánica Automotriz,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica Automotriz,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,21,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Construcción Civil,Diurno,Administración,Diurno,19,Masculino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Nocturno,Contabilidad,Nocturno,19,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,25,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Diseño Publicitario,Nocturno,Secretariado Ejecutivo,Nocturno,29,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Secretariado Ejecutivo,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,16,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,17,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Mecánica de Producción,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Mecánica Automotriz,Diurno,18,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Contabilidad,Diurno,17,
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2013,Contabilidad,Nocturno,Administración,Nocturno,28,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2017,Contabilidad,Nocturno,Contabilidad,Nocturno,27,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Construcción Civil,Nocturno,Administración,Nocturno,20,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Construcción Civil,Nocturno,Desarrollo de Sistemas de Información,Nocturno,23,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Desarrollo de Sistemas de Información,Nocturno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2017,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,21,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Diseño Gráfico,Diurno,Administración,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2000,Contabilidad,Diurno,Mecánica de Producción,Nocturno,18,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Secretariado Ejecutivo,Diurno,Administración,Nocturno,26,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2007,Contabilidad,Nocturno,Contabilidad,Nocturno,30,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Nocturno,Administración,Nocturno,20,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Contabilidad,Diurno,Administración,Diurno,24,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,21,Masculino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Contabilidad,Nocturno,Administración,Nocturno,34,Femenino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Secretariado Ejecutivo,Diurno,Administración,Diurno,19,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,21601,ANCASH,POMABAMBA,POMABAMBA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1994,Secretariado Ejecutivo,Nocturno,Administración,Diurno,46,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1990,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,55,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,21,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Mecánica Automotriz,Diurno,Mecánica de Producción,Nocturno,22,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1978,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,62,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Administración,Diurno,Secretariado Ejecutivo,Diurno,44,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,20,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Contabilidad,Nocturno,Construcción Civil,Nocturno,27,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Diurno,Diseño Gráfico,Diurno,21,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2019,Contabilidad,Diurno,Administración,Nocturno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica de Producción,Diurno,Desarrollo de Sistemas de Información,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Construcción Civil,Diurno,Administración,Nocturno,20,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Diurno,Secretariado Ejecutivo,Diurno,21,Femenino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Administración,Nocturno,19,Masculino
+20230320,150141,LIMA,LIMA,SURQUILLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Mecánica Automotriz,Nocturno,Administración,Nocturno,36,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Administración,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Desarrollo de Sistemas de Información,Nocturno,Contabilidad,Nocturno,35,Femenino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,21,Femenino
+20230320,150106,LIMA,LIMA,CARABAYLLO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Secretariado Ejecutivo,Diurno,Diseño Publicitario,Diurno,25,Femenino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Contabilidad,Diurno,Diseño Gráfico,Diurno,34,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Administración,Diurno,Contabilidad,Diurno,24,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Nocturno,Administración,Nocturno,25,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2000,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,39,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Administración,Diurno,Secretariado Ejecutivo,Diurno,31,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,20,Masculino
+20230320,150122,LIMA,LIMA,MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Administración,Nocturno,Mecánica de Producción,Nocturno,24,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Contabilidad,Nocturno,Administración,Nocturno,30,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Servicio Militar,EBA - Educación Básica Alternativa,2020,Mecánica Automotriz,Nocturno,Desarrollo de Sistemas de Información,Nocturno,22,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,19,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1996,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,43,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Mecánica de Producción,Nocturno,Construcción Civil,Nocturno,27,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Diurno,Contabilidad,Diurno,26,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,19,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Construcción Civil,Nocturno,18,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Conadis,EBR - Educación Básica Regular,,Contabilidad,Diurno,Administración,Diurno,21,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Diurno,Contabilidad,Diurno,20,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Mecánica de Producción,Diurno,17,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,44,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Nocturno,Contabilidad,Nocturno,24,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Mecánica de Producción,Diurno,17,Femenino
+20230320,150113,LIMA,LIMA,JESUS MARIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1992,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,48,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Administración,Nocturno,Administración,Nocturno,44,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Diurno,Secretariado Ejecutivo,Diurno,20,Femenino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Contabilidad,Nocturno,Administración,Nocturno,29,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Diseño Publicitario,Diurno,Desarrollo de Sistemas de Información,Diurno,22,Masculino
+20230320,140103,LAMBAYEQUE,CHICLAYO,ETEN,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,17,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1986,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,53,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Mecánica de Producción,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2018,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,22,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Diurno,Contabilidad,Diurno,24,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Construcción Civil,Diurno,Contabilidad,Diurno,18,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Mecánica Automotriz,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Contabilidad,Diurno,18,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,19,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Contabilidad,Nocturno,30,
+20230320,150109,LIMA,LIMA,CIENEGUILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,19,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Administración,Diurno,Diseño Gráfico,Nocturno,26,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,17,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,19,Femenino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Contabilidad,Nocturno,18,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Contabilidad,Diurno,17,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Administración,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Administración,Nocturno,Mecánica de Producción,Nocturno,24,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Administración,Diurno,18,Femenino
+20230320,150116,LIMA,LIMA,LINCE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,18,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,29,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica Automotriz,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,26,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,46,Masculino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,20,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150142,LIMA,LIMA,VILLA EL SALVADOR,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Gráfico,Diurno,Diseño Publicitario,Nocturno,25,Femenino
+20230320,200208,PIURA,AYABACA,SAPILLICA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Administración,Nocturno,Administración,Nocturno,20,Masculino
+20230320,40305,AREQUIPA,CARAVELI,BELLA UNION,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica de Producción,Nocturno,Administración,Nocturno,19,Masculino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2018,Secretariado Ejecutivo,Nocturno,Contabilidad,Nocturno,28,Masculino
+20230320,150131,LIMA,LIMA,SAN ISIDRO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,27,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Nocturno,Administración,Nocturno,18,Masculino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2005,Administración,Diurno,Administración,Diurno,34,
+20230320,40305,AREQUIPA,CARAVELI,BELLA UNION,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Secretariado Ejecutivo,Nocturno,Contabilidad,Nocturno,24,Femenino
+20230320,150116,LIMA,LIMA,LINCE,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2018,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,21,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Diurno,29,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Administración,Nocturno,Contabilidad,Nocturno,25,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,38,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Contabilidad,Diurno,Mecánica Automotriz,Diurno,19,Masculino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica de Producción,Nocturno,Mecánica Automotriz,Nocturno,21,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,23,Masculino
+20230320,40101,AREQUIPA,AREQUIPA,AREQUIPA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,27,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2017,Desarrollo de Sistemas de Información,Nocturno,Mecánica de Producción,Nocturno,23,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Mecánica de Producción,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Desarrollo de Sistemas de Información,Nocturno,Contabilidad,Nocturno,26,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1998,Contabilidad,Nocturno,Administración,Nocturno,42,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1995,Construcción Civil,Nocturno,Contabilidad,Nocturno,43,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Conadis,EBR - Educación Básica Regular,2013,Diseño Gráfico,Diurno,Administración,Diurno,29,Femenino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1999,Diseño Gráfico,Nocturno,Administración,Nocturno,39,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Contabilidad,Diurno,20,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Contabilidad,Nocturno,Administración,Nocturno,31,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1997,Construcción Civil,Nocturno,Diseño Gráfico,Nocturno,43,Masculino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,150123,LIMA,LIMA,PACHACAMAC,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Construcción Civil,Diurno,Mecánica Automotriz,Diurno,17,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Administración,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Diurno,Contabilidad,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,21,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,19,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,21,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Nocturno,Contabilidad,Nocturno,25,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Contabilidad,Nocturno,Diseño Publicitario,Nocturno,20,
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Mecánica Automotriz,Nocturno,Mecánica de Producción,Nocturno,19,
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2016,Administración,Nocturno,Administración,Nocturno,25,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Secretariado Ejecutivo,Diurno,Administración,Diurno,24,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Diseño Gráfico,Diurno,Administración,Nocturno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,18,Masculino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Construcción Civil,Nocturno,Administración,Nocturno,33,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2000,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,38,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Nocturno,Contabilidad,Nocturno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Administración,Nocturno,Administración,Nocturno,24,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2007,Mecánica Automotriz,Nocturno,Mecánica de Producción,Nocturno,37,Masculino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Nocturno,Administración,Nocturno,22,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,,Mecánica de Producción,Diurno,Mecánica de Producción,Diurno,21,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,25,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1993,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,46,Femenino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,20,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,150137,LIMA,LIMA,SANTA ANITA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,18,Masculino
+20230320,221003,SAN MARTIN,TOCACHE,POLVORA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Nocturno,Contabilidad,Nocturno,23,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Desarrollo de Sistemas de Información,Nocturno,Construcción Civil,Nocturno,26,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Administración,Diurno,18,Masculino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Administración,Diurno,Diseño Gráfico,Diurno,25,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,29,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1996,Construcción Civil,Nocturno,Mecánica Automotriz,Nocturno,40,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Secretariado Ejecutivo,Diurno,Administración,Diurno,31,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Gráfico,Diurno,19,Femenino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Contabilidad,Nocturno,18,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1991,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,47,Femenino
+20230320,150137,LIMA,LIMA,SANTA ANITA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Construcción Civil,Nocturno,Administración,Nocturno,34,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Construcción Civil,Nocturno,17,Masculino
+20230320,150137,LIMA,LIMA,SANTA ANITA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Administración,Nocturno,Diseño Gráfico,Nocturno,34,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2001,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,38,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Administración,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Publicitario,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Diseño Gráfico,Diurno,Administración,Diurno,18,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Administración,Nocturno,Contabilidad,Nocturno,30,Femenino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Administración,Nocturno,Diseño Publicitario,Nocturno,25,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Nocturno,Administración,Nocturno,20,
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Contabilidad,Nocturno,Administración,Nocturno,24,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Contabilidad,Diurno,Diseño Gráfico,Nocturno,20,Masculino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,24,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2001,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,37,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1979,Secretariado Ejecutivo,Nocturno,Administración,Nocturno,60,Femenino
+20230320,150134,LIMA,LIMA,SAN LUIS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Diurno,Administración,Diurno,20,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,19,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1979,Contabilidad,Nocturno,Administración,Nocturno,60,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Conadis,EBR - Educación Básica Regular,1982,Contabilidad,Nocturno,Secretariado Ejecutivo,Nocturno,58,Masculino
+20230320,150109,LIMA,LIMA,CIENEGUILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Diurno,Administración,Diurno,22,Masculino
+20230320,150131,LIMA,LIMA,SAN ISIDRO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2000,Administración,Nocturno,Contabilidad,Nocturno,39,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Contabilidad,Nocturno,Administración,Nocturno,30,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Nocturno,Diseño Publicitario,Diurno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Contabilidad,Nocturno,Administración,Nocturno,26,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Diurno,Administración,Diurno,27,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1991,Administración,Nocturno,Contabilidad,Nocturno,48,Femenino
+20230320,150510,LIMA,CAÑETE,NUEVO IMPERIAL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Construcción Civil,Nocturno,Construcción Civil,Nocturno,20,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Mecánica de Producción,Diurno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Diurno,30,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Contabilidad,Nocturno,17,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,18,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,201862,Administración,Nocturno,Diseño Gráfico,Nocturno,21,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,20,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,31,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2016,Secretariado Ejecutivo,Diurno,Contabilidad,Diurno,22,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1998,Administración,Nocturno,Contabilidad,Nocturno,42,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Secretariado Ejecutivo,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,1994,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,45,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Secretariado Ejecutivo,Nocturno,Administración,Nocturno,33,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Administración,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Diurno,20,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Desarrollo de Sistemas de Información,Diurno,Desarrollo de Sistemas de Información,Diurno,19,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2002,Administración,Nocturno,Construcción Civil,Nocturno,36,Masculino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1998,Administración,Nocturno,Diseño Gráfico,Nocturno,40,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Administración,Nocturno,Diseño Publicitario,Nocturno,32,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,35,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Diurno,Contabilidad,Nocturno,18,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Contabilidad,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Contabilidad,Nocturno,Contabilidad,Nocturno,29,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Mecánica de Producción,Diurno,Mecánica Automotriz,Diurno,20,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,17,Femenino
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,30,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1991,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,47,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Contabilidad,Nocturno,Administración,Nocturno,31,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,20,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Desarrollo de Sistemas de Información,Nocturno,Secretariado Ejecutivo,Nocturno,22,Femenino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,23,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Desarrollo de Sistemas de Información,Nocturno,Construcción Civil,Nocturno,30,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Administración,Nocturno,Mecánica de Producción,Nocturno,27,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2019,Mecánica Automotriz,Nocturno,Mecánica de Producción,Nocturno,42,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Administración,Nocturno,Contabilidad,Nocturno,24,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,21,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Administración,Nocturno,Contabilidad,Nocturno,23,Masculino
+20230320,150105,LIMA,LIMA,BREÑA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Publicitario,Nocturno,Administración,Nocturno,22,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Mecánica Automotriz,Diurno,17,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Nocturno,Diseño Publicitario,Nocturno,22,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,19,Masculino
+20230320,150115,LIMA,LIMA,LA VICTORIA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2010,Mecánica Automotriz,Nocturno,Secretariado Ejecutivo,Nocturno,25,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,18,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2003,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,36,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,22,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Contabilidad,Nocturno,Contabilidad,Nocturno,30,Femenino
+20230320,150143,LIMA,LIMA,VILLA MARIA DEL TRIUNFO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2010,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,27,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2018,Contabilidad,Nocturno,Construcción Civil,Nocturno,21,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Diurno,Administración,Nocturno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2014,Administración,Nocturno,Administración,Nocturno,25,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1991,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,48,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,
+20230320,150125,LIMA,LIMA,PUENTE PIEDRA,2022,Conadis,EBR - Educación Básica Regular,2018,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,22,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2001,Contabilidad,Nocturno,Mecánica Automotriz,Nocturno,37,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Gráfico,Diurno,18,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,21,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Diseño Publicitario,Diurno,Mecánica Automotriz,Diurno,22,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Desarrollo de Sistemas de Información,Nocturno,Mecánica de Producción,Nocturno,20,Masculino
+20230320,150143,LIMA,LIMA,VILLA MARIA DEL TRIUNFO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Nocturno,Mecánica Automotriz,Nocturno,23,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Administración,Diurno,Desarrollo de Sistemas de Información,Diurno,28,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Nocturno,Secretariado Ejecutivo,Diurno,21,Masculino
+20230320,150137,LIMA,LIMA,SANTA ANITA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Contabilidad,Diurno,Desarrollo de Sistemas de Información,Diurno,32,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica Automotriz,Diurno,Mecánica Automotriz,Diurno,26,Femenino
+20230320,150109,LIMA,LIMA,CIENEGUILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Nocturno,19,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Mecánica Automotriz,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Masculino
+20230320,150140,LIMA,LIMA,SANTIAGO DE SURCO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,150128,LIMA,LIMA,RIMAC,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Administración,Nocturno,19,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,21,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Contabilidad,Nocturno,Diseño Gráfico,Nocturno,38,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Administración,Diurno,19,Femenino
+20230320,150105,LIMA,LIMA,BREÑA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1983,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,59,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,19,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,1992,Administración,Nocturno,Mecánica Automotriz,Nocturno,52,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Diseño Publicitario,Nocturno,20,Femenino
+20230320,130101,LA LIBERTAD,TRUJILLO,TRUJILLO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2003,Administración,Nocturno,Administración,Nocturno,35,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Contabilidad,Nocturno,Administración,Nocturno,26,Femenino
+20230320,150107,LIMA,LIMA,CHACLACAYO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1994,Contabilidad,Diurno,Diseño Gráfico,Nocturno,44,Masculino
+20230320,150133,LIMA,LIMA,SAN JUAN DE MIRAFLORES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,18,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,23,Masculino
+20230320,150105,LIMA,LIMA,BREÑA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Contabilidad,Diurno,17,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,21,Femenino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Diurno,Administración,Diurno,18,Masculino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Nocturno,Diseño Gráfico,Nocturno,20,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,18,Masculino
+20230320,60901,CAJAMARCA,SAN IGNACIO,SAN IGNACIO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2003,Administración,Diurno,Contabilidad,Diurno,36,
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,2016,Diseño Gráfico,Diurno,Mecánica Automotriz,Diurno,22,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica de Producción,Diurno,Mecánica de Producción,Diurno,21,Masculino
+20230320,150137,LIMA,LIMA,SANTA ANITA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1998,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,40,Masculino
+20230320,150131,LIMA,LIMA,SAN ISIDRO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Mecánica Automotriz,Diurno,Mecánica Automotriz,Diurno,25,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Mecánica de Producción,Diurno,Mecánica de Producción,Diurno,21,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Contabilidad,Nocturno,Administración,Nocturno,32,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Desarrollo de Sistemas de Información,Nocturno,Administración,Nocturno,34,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2010,Administración,Diurno,Mecánica Automotriz,Diurno,29,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,18,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,2021,Mecánica de Producción,Diurno,Mecánica de Producción,Diurno,20,Femenino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Secretariado Ejecutivo,Nocturno,Secretariado Ejecutivo,Nocturno,37,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,2021,Mecánica de Producción,Nocturno,Mecánica de Producción,Nocturno,21,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Administración,Diurno,17,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,2019,Mecánica de Producción,Nocturno,Mecánica de Producción,Nocturno,24,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Nocturno,Administración,Nocturno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,19,Femenino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Administración,Diurno,Administración,Diurno,18,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,2021,Mecánica de Producción,Nocturno,Mecánica de Producción,Nocturno,20,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2013,Administración,Diurno,Mecánica de Producción,Diurno,26,
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Nocturno,17,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Construcción Civil,Diurno,Diseño Gráfico,Diurno,23,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Mecánica de Producción,Diurno,Contabilidad,Diurno,18,Masculino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Diurno,22,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,18,
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Mecánica Automotriz,Diurno,Mecánica de Producción,Diurno,24,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,18,Masculino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBA - Educación Básica Alternativa,2021,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Contabilidad,Diurno,Administración,Diurno,22,Femenino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Secretariado Ejecutivo,Diurno,18,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Administración,Nocturno,Diseño Publicitario,Nocturno,29,
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Contabilidad,Nocturno,Administración,Nocturno,32,Masculino
+20230320,150109,LIMA,LIMA,CIENEGUILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2003,Mecánica de Producción,Nocturno,Mecánica Automotriz,Nocturno,38,Masculino
+20230320,150143,LIMA,LIMA,VILLA MARIA DEL TRIUNFO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,24,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,18,Masculino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,17,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Gráfico,Nocturno,17,Masculino
+20230320,150136,LIMA,LIMA,SAN MIGUEL,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Desarrollo de Sistemas de Información,Nocturno,Desarrollo de Sistemas de Información,Nocturno,26,Masculino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2017,Diseño Gráfico,Diurno,Diseño Gráfico,Diurno,17,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,,Diseño Publicitario,Diurno,Diseño Gráfico,Diurno,18,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,Masculino
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2009,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,29,Femenino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Diseño Publicitario,Nocturno,Diseño Gráfico,Diurno,18,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2014,Contabilidad,Diurno,Diseño Gráfico,Diurno,20,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Nocturno,Administración,Nocturno,19,Masculino
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2008,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,31,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1990,Construcción Civil,Nocturno,Administración,Nocturno,48,
+20230320,150111,LIMA,LIMA,EL AGUSTINO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,27,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,31,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Administración,Diurno,Construcción Civil,Nocturno,28,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Diseño Publicitario,Diurno,Secretariado Ejecutivo,Diurno,33,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Construcción Civil,Nocturno,Desarrollo de Sistemas de Información,Nocturno,18,Masculino
+20230320,150117,LIMA,LIMA,LOS OLIVOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Publicitario,Nocturno,Diseño Gráfico,Nocturno,18,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2007,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,31,Masculino
+20230320,150143,LIMA,LIMA,VILLA MARIA DEL TRIUNFO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1988,Mecánica Automotriz,Nocturno,Mecánica de Producción,Nocturno,53,Masculino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Contabilidad,Nocturno,Desarrollo de Sistemas de Información,Nocturno,23,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Desarrollo de Sistemas de Información,Nocturno,Construcción Civil,Nocturno,36,Masculino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2022,Construcción Civil,Nocturno,Mecánica Automotriz,Nocturno,27,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1999,Desarrollo de Sistemas de Información,Nocturno,Diseño Gráfico,Diurno,39,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2006,Construcción Civil,Diurno,Mecánica Automotriz,Diurno,32,Masculino
+20230320,150110,LIMA,LIMA,COMAS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2008,Contabilidad,Nocturno,Administración,Nocturno,29,Femenino
+20230320,150121,LIMA,LIMA,PUEBLO LIBRE,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2020,Contabilidad,Diurno,Mecánica Automotriz,Nocturno,21,Masculino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Diseño Gráfico,Diurno,Diseño Publicitario,Diurno,18,
+20230320,150101,LIMA,LIMA,LIMA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,20,Masculino
+20230320,150103,LIMA,LIMA,ATE,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2005,Contabilidad,Nocturno,Administración,Nocturno,33,Femenino
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Diseño Gráfico,Nocturno,Diseño Gráfico,Nocturno,19,Masculino
+20230320,110501,ICA,PISCO,PISCO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Nocturno,Construcción Civil,Nocturno,24,Femenino
+20230320,150112,LIMA,LIMA,INDEPENDENCIA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1990,Desarrollo de Sistemas de Información,Nocturno,Secretariado Ejecutivo,Nocturno,50,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Administración,Diurno,Mecánica Automotriz,Diurno,24,Masculino
+20230320,150134,LIMA,LIMA,SAN LUIS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Desarrollo de Sistemas de Información,Diurno,Diseño Gráfico,Diurno,17,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Administración,Diurno,Diseño Publicitario,Diurno,23,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Mecánica Automotriz,Nocturno,Mecánica Automotriz,Nocturno,20,Masculino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1990,Administración,Nocturno,Secretariado Ejecutivo,Nocturno,48,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2021,Administración,Diurno,Contabilidad,Diurno,18,Masculino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Secretariado Ejecutivo,Nocturno,Diseño Publicitario,Diurno,28,Femenino
+20230320,150135,LIMA,LIMA,SAN MARTIN DE PORRES,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2004,Diseño Gráfico,Nocturno,Desarrollo de Sistemas de Información,Nocturno,35,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Desarrollo de Sistemas de Información,Nocturno,28,Masculino
+20230320,150108,LIMA,LIMA,CHORRILLOS,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2013,Diseño Gráfico,Nocturno,Diseño Publicitario,Nocturno,26,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2018,Diseño Gráfico,Nocturno,Administración,Diurno,21,
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2015,Secretariado Ejecutivo,Diurno,Administración,Nocturno,23,Femenino
+20230320,70102,CALLAO,CALLAO,BELLAVISTA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2012,Secretariado Ejecutivo,Diurno,Administración,Nocturno,27,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Carmem de la legua  - Ordinario - Examen de Admisión,EBR - Educación Básica Regular,2018,Mecánica de Producción,Nocturno,Mecánica de Producción,Nocturno,42,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2012,Administración,Nocturno,Administración,Nocturno,26,Femenino
+20230320,70103,CALLAO,CALLAO,CARMEN DE LA LEGUA REYNOSO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1986,Administración,Nocturno,Contabilidad,Nocturno,52,Masculino
+20230320,150113,LIMA,LIMA,JESUS MARIA,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2013,Administración,Nocturno,Administración,Nocturno,32,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Administración,Nocturno,Administración,Nocturno,19,
+20230320,70106,CALLAO,CALLAO,VENTANILLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2020,Contabilidad,Nocturno,Administración,Nocturno,18,Masculino
+20230320,150118,LIMA,LIMA,LURIGANCHO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2019,Contabilidad,Nocturno,Contabilidad,Nocturno,19,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2015,Contabilidad,Nocturno,Administración,Nocturno,25,Femenino
+20230320,70104,CALLAO,CALLAO,LA PERLA,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2016,Desarrollo de Sistemas de Información,Nocturno,Administración,Diurno,18,
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2021,Administración,Nocturno,Diseño Gráfico,Nocturno,41,Femenino
+20230320,150128,LIMA,LIMA,RIMAC,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,1989,Secretariado Ejecutivo,Nocturno,Administración,Nocturno,49,Femenino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBR - Educación Básica Regular,2011,Secretariado Ejecutivo,Nocturno,Diseño Publicitario,Nocturno,27,Femenino
+20230320,150132,LIMA,LIMA,SAN JUAN DE LURIGANCHO,2022,Conadis,EBR - Educación Básica Regular,2004,Desarrollo de Sistemas de Información,Nocturno,Diseño Publicitario,Nocturno,34,Masculino
+20230320,70101,CALLAO,CALLAO,CALLAO,2022,Ordinario - Examen de admisión,EBA - Educación Básica Alternativa,2012,Mecánica de Producción,Diurno,Mecánica Automotriz,Diurno,26,
