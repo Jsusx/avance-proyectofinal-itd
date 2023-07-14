@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
-Importamos las librerias y listamos las primeras 5 columnas
+
+#########
+# Importamos las librerias y listamos las primeras 5 columnas
+#########
+
 # In[35]:
 
 
@@ -9,7 +13,9 @@ import matplotlib.pyplot as pit
 
 data = pd.read_csv("../data/Postulantes-2022_1.csv", sep=",", encoding='unicode_escape')
 
-Mostramos la data que vamos a utilizar
+######
+# Mostramos la data que vamos a utilizar
+######
 # In[4]:
 
 
