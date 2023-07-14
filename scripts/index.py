@@ -10,7 +10,6 @@
 
 import pandas as pd
 import matplotlib.pyplot as pit
-from pathlib import Path
 
 data = pd.read_csv("/app/avance-proyectofinal-itd/data/Postulantes-2022_1.csv", sep=",", encoding='unicode_escape')
 
